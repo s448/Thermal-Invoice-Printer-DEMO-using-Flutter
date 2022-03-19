@@ -87,7 +87,7 @@ class _MyAppState extends State<MyApp> {
                     print("Connected but not printing " + e.toString());
                   }
                 } else {
-                  print("Not Connected ?????????????????");
+                  print("Not Connected");
                 }
               },
               child: const Text("Print"),
