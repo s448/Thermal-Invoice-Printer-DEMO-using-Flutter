@@ -1,6 +1,6 @@
 # esc_printer
 
-A new Flutter project.
+A Flutter demo application for printing Invoice using thermal printer with two ways
 
 ## Getting Started
 
