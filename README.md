@@ -15,5 +15,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
+try to print network iamge 
 ![photo_2022-03-27_15-07-53](https://user-images.githubusercontent.com/59616620/160283013-200e27c3-97fd-4234-87ff-c445cc4eabb3.jpg)
+
+
+the invoice from API request
+![photo_2022-02-11_01-50-33](https://user-images.githubusercontent.com/59616620/160283238-b2c87fd2-1301-4697-9f9d-b575665bb8e5.jpg)
